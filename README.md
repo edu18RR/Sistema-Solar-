@@ -1,4 +1,4 @@
-# Proyecto | Planeta Sola.
+# Proyecto | Planeta Solar.
 
 ## Eduardo Rosas
 
